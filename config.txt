@@ -1,6 +1,6 @@
 token= NDQ4MTM3NTgzMjY4OTg2ODkx.DxAHIg.VY71ztam1a5Lf3T6QqXtX0Cboh8
 owner= 464276425847996437 
-prefix= S4
+prefix= _
 game= S4
 stayinchannel=true
 songinstatus=false 
