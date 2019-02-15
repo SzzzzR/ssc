@@ -1,6 +1,6 @@
 token= NDQ4MTM3NTgzMjY4OTg2ODkx.DxAHIg.VY71ztam1a5Lf3T6QqXtX0Cboh8
-owner= 343536359274840075 
-prefix= _
-game= ♚تــكلم وأنـــت غاضــب فســتقول أعظم حديث تندم عليـــه
+owner= 505425254181502985 
+prefix= 1
+game= Type 1
 stayinchannel=true
 songinstatus=false 
